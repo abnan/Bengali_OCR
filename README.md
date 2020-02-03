@@ -27,4 +27,4 @@ Since there are ~110 combinations, only showing the diagonal of the matrix is fe
 # Todo:
 * Clean-up files
 * Add test data results
-* Try weighted loss for under/over-represented classes
+* Try weighted loss or under/over-sampling for under/over-represented classes
